@@ -2,6 +2,9 @@
 # KT_Internet_Reset_Python
 
 ## KT 인터넷 초기화를 자동으로 해주는 파이썬 스크립트입니다.
+- KT 인터넷 사용자만 해당됩니다.
+- [링크](https://www.clien.net/service/board/lecture/15452293)에 설명되어있는 프로세스를 자동으로 진행해줍니다.
+- 자동으로 진행되는것을 원하시지 않는다면 위 링크를 참고해주세요.
 
 ![Generic badge](https://img.shields.io/badge/Version-1.0.0-{color}.svg)  [![Generic badge](https://img.shields.io/badge/Docker-KT_Internet_Reset_Python-blue.svg)](https://hub.docker.com/r/rlatn1234/kt_internet_reset)
 
