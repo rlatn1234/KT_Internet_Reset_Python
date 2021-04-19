@@ -1,4 +1,4 @@
-apt-get install -y python3 python3-pip python3-dev build-essential git libxss1 libgconf2-4 libappindicator1 libindicator7
+apt-get install -y python3 python3-pip python3-dev build-essential git
 apt-get install -yqq unzip curl
 git clone https://github.com/rlatn1234/KT_Internet_Reset_Python
 cd KT_Internet_Reset_Python
